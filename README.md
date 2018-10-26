@@ -1,2 +1,2 @@
 # pupil-s-report-card
-this is for making reports
+This application enables teachers automatically create report cards for pupils
